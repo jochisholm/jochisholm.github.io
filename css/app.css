@@ -10,10 +10,38 @@ p {
 
 h1 {
 	font-family: 'PT serif', serif;
-	color: #0B447B;
+	color: #3399cc;
 	font-weight: 2px;
+	font-size: 120px;
+    text-shadow:
+    -2px -2px 0 #336699,
+    2px -2px 0 #336699,
+    -2px 2px 0 #336699,
+    2px 2px 0 #336699;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
 }
 
+
+
+#women {
+	line-height: 100px;
+	/*padding-left: 20%;*/
+}
+
+#on {
+	line-height: 100px;
+	/*padding-left: 48%;*/
+
+}
+
+#top {
+	line-height: 100px;
+	/*padding-left: 56%;*/
+	padding-bottom: 10px;
+}
 h2 {
 	font-family: 'PT serif';
 	color: #0B447B;
